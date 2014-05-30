@@ -8,6 +8,8 @@ public class BoardDto {
 	private int hit;
 	private int like;
 	private int test;
+	private int test1;
+	private int test2;
 	
 	
 	
