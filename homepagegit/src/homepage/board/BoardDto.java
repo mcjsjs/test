@@ -7,6 +7,7 @@ public class BoardDto {
 	private String day;
 	private int hit;
 	private int like;
+	private int test;
 	
 	
 	
