@@ -15,6 +15,9 @@ public class BoardDto {
 	private int test5;
 	private int test6;
 	private int test7;
+	private int test8;
+	private int test9;
+	private int test10;
 	
 	
 	
